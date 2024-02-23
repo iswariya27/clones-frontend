@@ -7,10 +7,8 @@ import TuneIcon from '@mui/icons-material/Tune';
 import HelpOutlineIcon from '@mui/icons-material/HelpOutline';
 import SettingsIcon from '@mui/icons-material/Settings';
 import AppsIcon from '@mui/icons-material/Apps';
-import AccountCircleIcon from '@mui/icons-material/AccountCircle';
 import { logOut } from '../../pages/MailPage';
 import Avatar from '@mui/material/Avatar';
-import { deepOrange } from '@mui/material/colors';
 
 function Header() {
     return (
